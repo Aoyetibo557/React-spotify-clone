@@ -1,0 +1,15 @@
+*User Authentication
+*Spotify API
+*Responsive Design
+*Material UI(Icons)
+*React Context API (Like Redux)
+*React Hooks functional (Hooks, State)
+*Entire REACT Tech Stack
+*****LEARN REDUX******
+*****DATA LAYER******* (built with context api)
+learn
+[1.contentx api
+then,
+2.redux]
+
+Clinet Id Spotify: 64767f20a68b4a04aa4205fb522bb1c3

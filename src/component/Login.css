@@ -1,0 +1,22 @@
+._login{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background: #000;
+}
+._login>img{
+    width: 100%;
+}
+
+._login > a{
+    padding: 20px;
+    border-radius: 99px;
+    background-color: #1db954;
+    font-weight: 800;
+    color: #fff;
+    text-decoration: none;
+}
+._login > a:hover{
+    color: #333;
+    transition: 0.3s;
+}

@@ -1,0 +1,39 @@
+._tileCard{
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 80px;
+    border-radius: 4px;
+    white-space: nowrap;
+    cursor: pointer;
+    overflow: hidden;
+    z-index: 0;
+    background-color: hsla(0, 0%, 100%, .1);
+    transition: backgrounnd-color .3s ease;
+}
+._tileCard:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+._tile__image{
+    min-width: 80px;
+    min-height: 80px;
+    object-fit: contain;
+}
+._tile__info{
+    padding: 11px;
+    display: flex;
+    -webkit-box-align: center;
+    flex: 1;
+    -webkit-box-flex: 1;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+}
+._tile__info > h3{
+    font-size: 16px;
+}
+._tile__link{
+    padding: 20px;
+    color: green;
+}
