@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Hosted on Firebase
+
+Click on[https://spotify-clone-142dc.web.app](https://spotify-clone-142dc.web.app) to view app
+
 ## Available Scripts
 
 In the project directory, you can run:
