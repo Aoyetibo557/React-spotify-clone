@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Hosted on Firebase
 
-Click on[https://spotify-clone-142dc.web.app](https://spotify-clone-142dc.web.app) to view app
+Click on [https://spotify-clone-142dc.web.app](https://spotify-clone-142dc.web.app) to view app
 
 ## Available Scripts
 
